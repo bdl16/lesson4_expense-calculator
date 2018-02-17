@@ -13,8 +13,7 @@ Web Application Development
 (Create an expense calculator using HTML and JS)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://bdl16.github.io/lesson4_expense-calculator/
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to use the getElementById method.)
